@@ -11,11 +11,7 @@
 1. Launched a scalable web service in Go to handle user posts and deployed to Google Cloud (Google App Engine).
 2. Used Elasticsearch (deployed to GCE) to provide search functions such that users can search recent posts and list personal posts.
 
-<<<<<<< HEAD
-# Getting Started with Create React App
-=======
 ## Getting Started with Create React App
->>>>>>> f02368917319a857167fedf678c39c8dee9afda8
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
