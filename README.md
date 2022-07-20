@@ -7,7 +7,11 @@
 4. Developed the main functions in Go to handle posts and deployed to Google Cloud (Google App Engine)
 5. Utilized ElasticSearch to optimize search functions such that users can search recent posts and list personal posts.
 
+<<<<<<< HEAD
 # Getting Started with Create React App
+=======
+## Getting Started with Create React App
+>>>>>>> f02368917319a857167fedf678c39c8dee9afda8
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
