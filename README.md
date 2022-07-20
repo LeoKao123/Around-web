@@ -1,3 +1,12 @@
+# Connect: a Cloud and React-based social media website
+
+## Project Overview
+1. Designed and implemented a short-video web application with React JS.
+2. Implemented features for users to create and browse posts and support search nearby posts.
+3. Improved the authentication using JWT token based registration/login/logout flow with React Router v4.
+4. Developed the main functions in Go to handle posts and deployed to Google Cloud (Google App Engine)
+5. Utilized ElasticSearch to optimize search functions such that users can search recent posts and list personal posts.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
